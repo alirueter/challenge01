@@ -8,4 +8,4 @@ The application should look like the following image.
 ![Horiseon Webpage](assets/images/screenshot.png)
 
 ## Link
-[Horiseon](https://alirueter.github.io/challenge01/)
+[Horiseon Webpage](https://alirueter.github.io/challenge01/)
